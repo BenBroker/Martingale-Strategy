@@ -6,7 +6,7 @@ This project simulates using the classic Martingale betting strategy at a roulet
 
 # Why I Built This
 
-I had some debates with my friends... even one of their dads. They all claimed that this was a guarentee to win infinite money. Yet all of their stories involved them unluckily losing 8 roulette spins in a row. 
+I had some debates with my friends... even with one of their fathers. They all claimed that this was a guarantee to win infinite money. Yet all of their stories involved them unluckily losing 8 roulette spins in a row. 
 
 This simulation gets to the bottom of the Martingale strategy.
 
